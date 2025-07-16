@@ -24,5 +24,5 @@ This Excel project forecasts product sales and visualizes performance using char
 ---
 
 📌 Created by Nancy S  
-🔗 [LinkedIn](https://www.linkedin.com/in/s-nancy-1b300b30b)
+🔗 https://www.linkedin.com/in/nancy-s-1b300b30b/
 
